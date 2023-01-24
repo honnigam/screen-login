@@ -30,9 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
-
- - [Viste meu projeto](https://honnigam.github.io/screen-login)
+ - [Visite meu projeto](https://honnigam.github.io/screen-login)
 
 
 
