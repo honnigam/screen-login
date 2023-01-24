@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by -[honnigam](https://github.com/honnigam) :wave: 
+Feito com ♥ por [honnigam](https://github.com/honnigam) :wave: 
