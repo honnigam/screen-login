@@ -83,8 +83,9 @@ form {
 }
 
 input {
-	background-color: #a7a7a7;
-	border: none;
+	background-color: #c5c5c5;
+	border: 1px solid black;
+	border-radius: 20px;
 	padding: 12px 15px;
 	margin: 8px 0;
 	width: 100%;
@@ -162,8 +163,8 @@ input {
 
 .overlay {
 	background: #FF416C;
-	background: -webkit-linear-gradient(to right, #0800e9, #FF416C);
-	background: linear-gradient(to right, #0800e9, #FF416C);
+	background: -webkit-linear-gradient(to right, #039aff, #FF416C);
+	background: linear-gradient(to right, #039aff, #FF416C);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
